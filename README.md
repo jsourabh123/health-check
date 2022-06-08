@@ -9,4 +9,11 @@
 
 ![image](https://user-images.githubusercontent.com/43174715/172567503-64397254-1752-4d1a-99d9-2480c6a3bf7d.png)
 
-function with is using the above model to predicti
+Below is sample test for evalution the model
+
+![image](https://user-images.githubusercontent.com/43174715/172567973-cf1e548a-600c-4d89-ac80-f45e2b78e9f7.png)
+
+we also develop a web page were user can come, upload image and use model to detect disease.
+
+![image](https://user-images.githubusercontent.com/43174715/172568272-c1891f38-ca92-4f96-9e7c-098aa99b9c8d.png)
+
