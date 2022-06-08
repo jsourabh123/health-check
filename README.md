@@ -1,4 +1,4 @@
-# health-check
+# Plant-Medicasre
 
 ## problem Statment 
 #### In the early days, the monitoring and diagnosis of plant disease were done by the expert person and was time taking and not reliable method so to overcome this drawback we develop an system for wellness detection and diagnosing purpose. In order to manage plant leaf diseases effectively, it is required to introduce an method of plant surveillance that can scrutinize plant condition and apply the knowledge-based solution to detect and classifying various diseases.
